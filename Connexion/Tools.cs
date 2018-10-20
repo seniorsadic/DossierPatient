@@ -13,7 +13,7 @@ namespace ConnexionDPI
     {
 
         //-----------------------------------    CONNEXION TEMPORAIRE   -------------------
-        public static string BDHost = "localhost", BDPort = "3306", BDName = "dpidb_new", BDUserName = "root", BDUserPwd = "";
+        public static string BDHost = "localhost", BDPort = "3306", BDName = "dpidb_new", BDUserName = "admindpi", BDUserPwd = "dpi@2018";
 
         public static MySqlConnection mySqlConnection = null;
        public static ParamUsers paramUsers = null;
