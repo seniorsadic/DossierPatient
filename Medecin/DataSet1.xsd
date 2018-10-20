@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSet1" msprop:Generator_UserDSName="DataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Un" msprop:Generator_TableClassName="UnDataTable" msprop:Generator_TableVarName="tableUn" msprop:Generator_TablePropName="Un" msprop:Generator_RowDeletingName="UnRowDeleting" msprop:Generator_RowChangingName="UnRowChanging" msprop:Generator_RowEvHandlerName="UnRowChangeEventHandler" msprop:Generator_RowDeletedName="UnRowDeleted" msprop:Generator_UserTableName="Un" msprop:Generator_RowChangedName="UnRowChanged" msprop:Generator_RowEvArgName="UnRowChangeEvent" msprop:Generator_RowClassName="UnRow">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Deux" msprop:Generator_TableClassName="DeuxDataTable" msprop:Generator_TableVarName="tableDeux" msprop:Generator_TablePropName="Deux" msprop:Generator_RowDeletingName="DeuxRowDeleting" msprop:Generator_RowChangingName="DeuxRowChanging" msprop:Generator_RowEvHandlerName="DeuxRowChangeEventHandler" msprop:Generator_RowDeletedName="DeuxRowDeleted" msprop:Generator_UserTableName="Deux" msprop:Generator_RowChangedName="DeuxRowChanged" msprop:Generator_RowEvArgName="DeuxRowChangeEvent" msprop:Generator_RowClassName="DeuxRow">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Trois" msprop:Generator_TableClassName="TroisDataTable" msprop:Generator_TableVarName="tableTrois" msprop:Generator_TablePropName="Trois" msprop:Generator_RowDeletingName="TroisRowDeleting" msprop:Generator_RowChangingName="TroisRowChanging" msprop:Generator_RowEvHandlerName="TroisRowChangeEventHandler" msprop:Generator_RowDeletedName="TroisRowDeleted" msprop:Generator_UserTableName="Trois" msprop:Generator_RowChangedName="TroisRowChanged" msprop:Generator_RowEvArgName="TroisRowChangeEvent" msprop:Generator_RowClassName="TroisRow">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

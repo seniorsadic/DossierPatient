@@ -1,0 +1,203 @@
+E:\DojoNationale\DPI\Medecin\bin\Debug\Medecin.exe
+E:\DojoNationale\DPI\Medecin\bin\Debug\Medecin.pdb
+E:\DojoNationale\DPI\Medecin\obj\Debug\Medecin.csprojResolveAssemblyReference.cache
+E:\DojoNationale\DPI\Medecin\obj\Debug\Medecin.Properties.Resources.resources
+E:\DojoNationale\DPI\Medecin\obj\Debug\Medecin.csproj.GenerateResource.Cache
+E:\DojoNationale\DPI\Medecin\obj\Debug\Medecin.exe
+E:\DojoNationale\DPI\Medecin\obj\Debug\Medecin.pdb
+E:\DPI\DPI\Medecin\obj\Debug\Medecin.Consultations.FicheConsultation.resources
+E:\DPI\DPI\Medecin\obj\Debug\Medecin.Consultations.FormConsultation.resources
+E:\DPI\DPI\Medecin\obj\Debug\Medecin.DosierPatient.FormPatient.resources
+E:\DPI\DPI\Medecin\obj\Debug\Medecin.Form1.resources
+E:\DPI\DPI\Medecin\obj\Debug\Medecin.Hospitalisations.FicheHospitalisation.resources
+E:\DPI\DPI\Medecin\obj\Debug\Medecin.Hospitalisations.FichePrescription.resources
+E:\DPI\DPI\Medecin\obj\Debug\Medecin.Hospitalisations.FormHospitalisation.resources
+E:\DPI\DPI\Medecin\obj\Debug\Medecin.Hospitalisations.Prescription.resources
+E:\DPI\DPI\Medecin\obj\Debug\Medecin.Properties.Resources.resources
+E:\DPI\DPI\Medecin\obj\Debug\Medecin.csproj.GenerateResource.Cache
+D:\DPI\Medecin\bin\Debug\Medecin.exe
+D:\DPI\Medecin\bin\Debug\Medecin.pdb
+D:\DPI\Medecin\bin\Debug\Connexion.exe
+D:\DPI\Medecin\bin\Debug\MySql.Data.dll
+D:\DPI\Medecin\bin\Debug\Connexion.pdb
+D:\DPI\Medecin\obj\Debug\Medecin.csprojResolveAssemblyReference.cache
+D:\DPI\Medecin\obj\Debug\Medecin.Consultations.FicheConsultation.resources
+D:\DPI\Medecin\obj\Debug\Medecin.Consultations.FormConsultation.resources
+D:\DPI\Medecin\obj\Debug\Medecin.DosierPatient.FormPatient.resources
+D:\DPI\Medecin\obj\Debug\Medecin.Form1.resources
+D:\DPI\Medecin\obj\Debug\Medecin.Hospitalisations.FicheHospitalisation.resources
+D:\DPI\Medecin\obj\Debug\Medecin.Hospitalisations.FichePrescription.resources
+D:\DPI\Medecin\obj\Debug\Medecin.Hospitalisations.FormHospitalisation.resources
+D:\DPI\Medecin\obj\Debug\Medecin.Hospitalisations.Prescription.resources
+D:\DPI\Medecin\obj\Debug\Medecin.Properties.Resources.resources
+D:\DPI\Medecin\obj\Debug\Medecin.csproj.GenerateResource.Cache
+D:\DPI\Medecin\obj\Debug\Medecin.csproj.CoreCompileInputs.cache
+D:\DPI\Medecin\obj\Debug\Medecin.exe
+D:\DPI\Medecin\obj\Debug\Medecin.pdb
+D:\Users\kaneeuro\Documents\Visual Studio 2015\Projects\DPI\Medecin\bin\Debug\Medecin.exe
+D:\Users\kaneeuro\Documents\Visual Studio 2015\Projects\DPI\Medecin\bin\Debug\Medecin.pdb
+D:\Users\kaneeuro\Documents\Visual Studio 2015\Projects\DPI\Medecin\bin\Debug\Connexion.exe
+D:\Users\kaneeuro\Documents\Visual Studio 2015\Projects\DPI\Medecin\bin\Debug\MySql.Data.dll
+D:\Users\kaneeuro\Documents\Visual Studio 2015\Projects\DPI\Medecin\bin\Debug\Connexion.pdb
+D:\Users\kaneeuro\Documents\Visual Studio 2015\Projects\DPI\Medecin\obj\Debug\Medecin.csprojResolveAssemblyReference.cache
+D:\Users\kaneeuro\Documents\Visual Studio 2015\Projects\DPI\Medecin\obj\Debug\Medecin.Consultations.FicheConsultation.resources
+D:\Users\kaneeuro\Documents\Visual Studio 2015\Projects\DPI\Medecin\obj\Debug\Medecin.Consultations.FormConsultation.resources
+D:\Users\kaneeuro\Documents\Visual Studio 2015\Projects\DPI\Medecin\obj\Debug\Medecin.DosierPatient.FormPatient.resources
+D:\Users\kaneeuro\Documents\Visual Studio 2015\Projects\DPI\Medecin\obj\Debug\Medecin.Form1.resources
+D:\Users\kaneeuro\Documents\Visual Studio 2015\Projects\DPI\Medecin\obj\Debug\Medecin.Hospitalisations.FicheHospitalisation.resources
+D:\Users\kaneeuro\Documents\Visual Studio 2015\Projects\DPI\Medecin\obj\Debug\Medecin.Hospitalisations.FichePrescription.resources
+D:\Users\kaneeuro\Documents\Visual Studio 2015\Projects\DPI\Medecin\obj\Debug\Medecin.Hospitalisations.FormHospitalisation.resources
+D:\Users\kaneeuro\Documents\Visual Studio 2015\Projects\DPI\Medecin\obj\Debug\Medecin.Hospitalisations.Prescription.resources
+D:\Users\kaneeuro\Documents\Visual Studio 2015\Projects\DPI\Medecin\obj\Debug\Medecin.Properties.Resources.resources
+D:\Users\kaneeuro\Documents\Visual Studio 2015\Projects\DPI\Medecin\obj\Debug\Medecin.csproj.GenerateResource.Cache
+D:\Users\kaneeuro\Documents\Visual Studio 2015\Projects\DPI\Medecin\obj\Debug\Medecin.exe
+D:\Users\kaneeuro\Documents\Visual Studio 2015\Projects\DPI\Medecin\obj\Debug\Medecin.pdb
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\DPI\Medecin\bin\Debug\Medecin.exe
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\DPI\Medecin\bin\Debug\Medecin.pdb
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\DPI\Medecin\bin\Debug\Connexion.exe
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\DPI\Medecin\bin\Debug\MySql.Data.dll
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\DPI\Medecin\bin\Debug\Connexion.pdb
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\DPI\Medecin\obj\Debug\Medecin.csprojResolveAssemblyReference.cache
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\DPI\Medecin\obj\Debug\Medecin.Consultations.FicheConsultation.resources
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\DPI\Medecin\obj\Debug\Medecin.Consultations.FormConsultation.resources
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\DPI\Medecin\obj\Debug\Medecin.DosierPatient.FormPatient.resources
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\DPI\Medecin\obj\Debug\Medecin.Form1.resources
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\DPI\Medecin\obj\Debug\Medecin.Hospitalisations.FicheHospitalisation.resources
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\DPI\Medecin\obj\Debug\Medecin.Hospitalisations.FichePrescription.resources
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\DPI\Medecin\obj\Debug\Medecin.Hospitalisations.FormHospitalisation.resources
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\DPI\Medecin\obj\Debug\Medecin.Hospitalisations.Prescription.resources
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\DPI\Medecin\obj\Debug\Medecin.Properties.Resources.resources
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\DPI\Medecin\obj\Debug\Medecin.csproj.GenerateResource.Cache
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\DPI\Medecin\obj\Debug\Medecin.exe
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\DPI\Medecin\obj\Debug\Medecin.pdb
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\Projet DPI\DPI\Medecin\bin\Debug\Medecin.exe
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\Projet DPI\DPI\Medecin\bin\Debug\Medecin.pdb
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\Projet DPI\DPI\Medecin\bin\Debug\Connexion.exe
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\Projet DPI\DPI\Medecin\bin\Debug\MySql.Data.dll
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\Projet DPI\DPI\Medecin\bin\Debug\Connexion.pdb
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\Projet DPI\DPI\Medecin\obj\Debug\Medecin.csprojResolveAssemblyReference.cache
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\Projet DPI\DPI\Medecin\obj\Debug\Medecin.Consultations.FicheConsultation.resources
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\Projet DPI\DPI\Medecin\obj\Debug\Medecin.Consultations.FormConsultation.resources
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\Projet DPI\DPI\Medecin\obj\Debug\Medecin.DosierPatient.FormPatient.resources
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\Projet DPI\DPI\Medecin\obj\Debug\Medecin.Form1.resources
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\Projet DPI\DPI\Medecin\obj\Debug\Medecin.Hospitalisations.FicheHospitalisation.resources
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\Projet DPI\DPI\Medecin\obj\Debug\Medecin.Hospitalisations.FichePrescription.resources
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\Projet DPI\DPI\Medecin\obj\Debug\Medecin.Hospitalisations.FormHospitalisation.resources
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\Projet DPI\DPI\Medecin\obj\Debug\Medecin.Hospitalisations.Prescription.resources
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\Projet DPI\DPI\Medecin\obj\Debug\Medecin.Properties.Resources.resources
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\Projet DPI\DPI\Medecin\obj\Debug\Medecin.csproj.GenerateResource.Cache
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\Projet DPI\DPI\Medecin\obj\Debug\Medecin.exe
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\Projet DPI\DPI\Medecin\obj\Debug\Medecin.pdb
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\Medecin.exe.config
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\Medecin.exe
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\Medecin.pdb
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\Connexion.exe
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\MySql.Data.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\Connexion.pdb
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\Connexion.exe.config
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\obj\Debug\Medecin.csprojResolveAssemblyReference.cache
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\obj\Debug\Medecin.Consultations.FicheConsultation.resources
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\obj\Debug\Medecin.Consultations.FormConsultation.resources
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\obj\Debug\Medecin.Consultations.FormConsultationBis.resources
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\obj\Debug\Medecin.DosierPatient.FormPatient.resources
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\obj\Debug\Medecin.Form1.resources
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\obj\Debug\Medecin.Hospitalisations.FicheHospitalisation.resources
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\obj\Debug\Medecin.Hospitalisations.FichePrescription.resources
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\obj\Debug\Medecin.Hospitalisations.FormHospitalisation.resources
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\obj\Debug\Medecin.Hospitalisations.Prescription.resources
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\obj\Debug\Medecin.Properties.Resources.resources
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\obj\Debug\Medecin.csproj.GenerateResource.cache
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\obj\Debug\Medecin.csproj.CoreCompileInputs.cache
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\obj\Debug\Medecin.csproj.CopyComplete
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\obj\Debug\Medecin.exe
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\obj\Debug\Medecin.pdb
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\EnvDTE.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\stdole.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\Microsoft.MSXML.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\obj\Debug\Medecin.Consultations.FicheHospitalisation.resources
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\obj\Debug\Medecin.Consultations.FormRendezvousMedecin.resources
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\obj\Debug\Medecin.Ordonnance.FicheOrdonnance.resources
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\obj\Debug\Medecin.Hospitalisations.FormHospitalisationBis.resources
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\EnvDTE80.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\VSLangProj.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\VSLangProj80.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\VSLangProj2.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\fr\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\fr\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Medecin\bin\Debug\fr\Microsoft.VisualStudio.GraphModel.resources.dll

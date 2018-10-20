@@ -1,0 +1,211 @@
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DPI\Parametrage\bin\Debug\Parametrage.exe.config
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DPI\Parametrage\bin\Debug\Parametrage.exe
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DPI\Parametrage\bin\Debug\Parametrage.pdb
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DPI\Parametrage\bin\Debug\Connexion.exe
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DPI\Parametrage\bin\Debug\MySQL.dll
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DPI\Parametrage\bin\Debug\MySql.Data.dll
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DPI\Parametrage\bin\Debug\Connexion.pdb
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DPI\Parametrage\obj\Debug\Parametrage.csprojResolveAssemblyReference.cache
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DPI\Parametrage\obj\Debug\Parametrage.csproj.Parametrage.exe.config
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DPI\Parametrage\obj\Debug\Parametrage.Personnel.FrmUtilisateur.resources
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DPI\Parametrage\obj\Debug\Parametrage.Personnel.FichePersonnel.resources
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DPI\Parametrage\obj\Debug\Parametrage.Personnel.FicheService.resources
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DPI\Parametrage\obj\Debug\Parametrage.Personnel.FicheSpecialite.resources
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DPI\Parametrage\obj\Debug\Parametrage.Personnel.FormPersonnel.resources
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DPI\Parametrage\obj\Debug\Parametrage.Properties.Resources.resources
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DPI\Parametrage\obj\Debug\Parametrage.ResetPassword.resources
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DPI\Parametrage\obj\Debug\Parametrage.Salle_Pavillon.FichePavillon.resources
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DPI\Parametrage\obj\Debug\Parametrage.Salle_Pavillon.FicheSalle.resources
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DPI\Parametrage\obj\Debug\Parametrage.Salle_Pavillon.FormSalle.resources
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DPI\Parametrage\obj\Debug\Parametrage.Soins_Examen.FicheExamen.resources
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DPI\Parametrage\obj\Debug\Parametrage.Soins_Examen.FicheTypeIntervention.resources
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DPI\Parametrage\obj\Debug\Parametrage.csproj.GenerateResource.Cache
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DPI\Parametrage\obj\Debug\Parametrage.exe
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DPI\Parametrage\obj\Debug\Parametrage.pdb
+D:\Users\kaneeuro\Documents\Visual Studio 2015\Projects\DPI\Parametrage\bin\Debug\Parametrage.exe.config
+D:\Users\kaneeuro\Documents\Visual Studio 2015\Projects\DPI\Parametrage\bin\Debug\Parametrage.exe
+D:\Users\kaneeuro\Documents\Visual Studio 2015\Projects\DPI\Parametrage\bin\Debug\Parametrage.pdb
+D:\Users\kaneeuro\Documents\Visual Studio 2015\Projects\DPI\Parametrage\bin\Debug\Connexion.exe
+D:\Users\kaneeuro\Documents\Visual Studio 2015\Projects\DPI\Parametrage\bin\Debug\MySql.Data.dll
+D:\Users\kaneeuro\Documents\Visual Studio 2015\Projects\DPI\Parametrage\bin\Debug\Connexion.pdb
+D:\Users\kaneeuro\Documents\Visual Studio 2015\Projects\DPI\Parametrage\obj\Debug\Parametrage.csprojResolveAssemblyReference.cache
+D:\Users\kaneeuro\Documents\Visual Studio 2015\Projects\DPI\Parametrage\obj\Debug\Parametrage.csproj.Parametrage.exe.config
+D:\Users\kaneeuro\Documents\Visual Studio 2015\Projects\DPI\Parametrage\obj\Debug\Parametrage.Personnel.FrmUtilisateur.resources
+D:\Users\kaneeuro\Documents\Visual Studio 2015\Projects\DPI\Parametrage\obj\Debug\Parametrage.Personnel.FichePersonnel.resources
+D:\Users\kaneeuro\Documents\Visual Studio 2015\Projects\DPI\Parametrage\obj\Debug\Parametrage.Personnel.FicheService.resources
+D:\Users\kaneeuro\Documents\Visual Studio 2015\Projects\DPI\Parametrage\obj\Debug\Parametrage.Personnel.FicheSpecialite.resources
+D:\Users\kaneeuro\Documents\Visual Studio 2015\Projects\DPI\Parametrage\obj\Debug\Parametrage.Personnel.FormPersonnel.resources
+D:\Users\kaneeuro\Documents\Visual Studio 2015\Projects\DPI\Parametrage\obj\Debug\Parametrage.Properties.Resources.resources
+D:\Users\kaneeuro\Documents\Visual Studio 2015\Projects\DPI\Parametrage\obj\Debug\Parametrage.ResetPassword.resources
+D:\Users\kaneeuro\Documents\Visual Studio 2015\Projects\DPI\Parametrage\obj\Debug\Parametrage.Salle_Pavillon.FichePavillon.resources
+D:\Users\kaneeuro\Documents\Visual Studio 2015\Projects\DPI\Parametrage\obj\Debug\Parametrage.Salle_Pavillon.FicheSalle.resources
+D:\Users\kaneeuro\Documents\Visual Studio 2015\Projects\DPI\Parametrage\obj\Debug\Parametrage.Salle_Pavillon.FormSalle.resources
+D:\Users\kaneeuro\Documents\Visual Studio 2015\Projects\DPI\Parametrage\obj\Debug\Parametrage.Soins_Examen.FicheExamen.resources
+D:\Users\kaneeuro\Documents\Visual Studio 2015\Projects\DPI\Parametrage\obj\Debug\Parametrage.Soins_Examen.FicheTypeIntervention.resources
+D:\Users\kaneeuro\Documents\Visual Studio 2015\Projects\DPI\Parametrage\obj\Debug\Parametrage.csproj.GenerateResource.Cache
+D:\Users\kaneeuro\Documents\Visual Studio 2015\Projects\DPI\Parametrage\obj\Debug\Parametrage.exe
+D:\Users\kaneeuro\Documents\Visual Studio 2015\Projects\DPI\Parametrage\obj\Debug\Parametrage.pdb
+D:\Users\kaneeuro\Documents\Visual Studio 2015\Projects\DPI\Parametrage\obj\Debug\Parametrage.Personnel.FormPersonnels.resources
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\DPI\Parametrage\bin\Debug\Parametrage.exe.config
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\DPI\Parametrage\bin\Debug\Parametrage.exe
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\DPI\Parametrage\bin\Debug\Parametrage.pdb
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\DPI\Parametrage\bin\Debug\Connexion.exe
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\DPI\Parametrage\bin\Debug\MySQL.dll
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\DPI\Parametrage\bin\Debug\MySql.Data.dll
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\DPI\Parametrage\bin\Debug\Connexion.pdb
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\DPI\Parametrage\obj\Debug\Parametrage.csprojResolveAssemblyReference.cache
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\DPI\Parametrage\obj\Debug\Parametrage.csproj.Parametrage.exe.config
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\DPI\Parametrage\obj\Debug\Parametrage.Personnel.FormPersonnels.resources
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\DPI\Parametrage\obj\Debug\Parametrage.Personnel.FrmUtilisateur.resources
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\DPI\Parametrage\obj\Debug\Parametrage.Personnel.FichePersonnel.resources
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\DPI\Parametrage\obj\Debug\Parametrage.Personnel.FicheService.resources
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\DPI\Parametrage\obj\Debug\Parametrage.Personnel.FicheSpecialite.resources
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\DPI\Parametrage\obj\Debug\Parametrage.Properties.Resources.resources
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\DPI\Parametrage\obj\Debug\Parametrage.ResetPassword.resources
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\DPI\Parametrage\obj\Debug\Parametrage.Salle_Pavillon.FichePavillon.resources
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\DPI\Parametrage\obj\Debug\Parametrage.Salle_Pavillon.FicheSalle.resources
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\DPI\Parametrage\obj\Debug\Parametrage.Salle_Pavillon.FormSalle.resources
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\DPI\Parametrage\obj\Debug\Parametrage.Soins_Examen.FicheExamen.resources
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\DPI\Parametrage\obj\Debug\Parametrage.Soins_Examen.FicheTypeIntervention.resources
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\DPI\Parametrage\obj\Debug\Parametrage.csproj.GenerateResource.Cache
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\DPI\Parametrage\obj\Debug\Parametrage.exe
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\DPI\Parametrage\obj\Debug\Parametrage.pdb
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\Projet DPI\DPI\Parametrage\bin\Debug\Parametrage.exe.config
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\Projet DPI\DPI\Parametrage\bin\Debug\Parametrage.exe
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\Projet DPI\DPI\Parametrage\bin\Debug\Parametrage.pdb
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\Projet DPI\DPI\Parametrage\bin\Debug\Connexion.exe
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\Projet DPI\DPI\Parametrage\bin\Debug\MySQL.dll
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\Projet DPI\DPI\Parametrage\bin\Debug\MySql.Data.dll
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\Projet DPI\DPI\Parametrage\bin\Debug\Connexion.pdb
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\Projet DPI\DPI\Parametrage\obj\Debug\Parametrage.csprojResolveAssemblyReference.cache
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\Projet DPI\DPI\Parametrage\obj\Debug\Parametrage.csproj.Parametrage.exe.config
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\Projet DPI\DPI\Parametrage\obj\Debug\Parametrage.Personnel.FormPersonnels.resources
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\Projet DPI\DPI\Parametrage\obj\Debug\Parametrage.Personnel.FrmUtilisateur.resources
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\Projet DPI\DPI\Parametrage\obj\Debug\Parametrage.Personnel.FichePersonnel.resources
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\Projet DPI\DPI\Parametrage\obj\Debug\Parametrage.Personnel.FicheService.resources
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\Projet DPI\DPI\Parametrage\obj\Debug\Parametrage.Personnel.FicheSpecialite.resources
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\Projet DPI\DPI\Parametrage\obj\Debug\Parametrage.Properties.Resources.resources
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\Projet DPI\DPI\Parametrage\obj\Debug\Parametrage.ResetPassword.resources
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\Projet DPI\DPI\Parametrage\obj\Debug\Parametrage.Salle_Pavillon.FichePavillon.resources
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\Projet DPI\DPI\Parametrage\obj\Debug\Parametrage.Salle_Pavillon.FicheSalle.resources
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\Projet DPI\DPI\Parametrage\obj\Debug\Parametrage.Salle_Pavillon.FormSalle.resources
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\Projet DPI\DPI\Parametrage\obj\Debug\Parametrage.Soins_Examen.FicheExamen.resources
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\Projet DPI\DPI\Parametrage\obj\Debug\Parametrage.Soins_Examen.FicheTypeIntervention.resources
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\Projet DPI\DPI\Parametrage\obj\Debug\Parametrage.csproj.GenerateResource.Cache
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\Projet DPI\DPI\Parametrage\obj\Debug\Parametrage.exe
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\Projet DPI\DPI\Parametrage\obj\Debug\Parametrage.pdb
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\DPI\Parametrage\obj\Debug\Parametrage.Salle_Pavillon.FormTypeSalle.resources
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\Parametrage.exe.config
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\Parametrage.exe
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\Parametrage.pdb
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\Connexion.exe
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\MySQL.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\MySql.Data.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\Connexion.pdb
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\Connexion.exe.config
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\obj\Debug\Parametrage.csprojResolveAssemblyReference.cache
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\obj\Debug\Parametrage.Personnel.FormPersonnels.resources
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\obj\Debug\Parametrage.Personnel.FrmUtilisateur.resources
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\obj\Debug\Parametrage.Personnel.FichePersonnel.resources
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\obj\Debug\Parametrage.Personnel.FicheService.resources
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\obj\Debug\Parametrage.Personnel.FicheSpecialite.resources
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\obj\Debug\Parametrage.Properties.Resources.resources
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\obj\Debug\Parametrage.ResetPassword.resources
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\obj\Debug\Parametrage.Salle_Pavillon.FichePavillon.resources
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\obj\Debug\Parametrage.Salle_Pavillon.FicheSalle.resources
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\obj\Debug\Parametrage.Salle_Pavillon.FormSalle.resources
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\obj\Debug\Parametrage.Salle_Pavillon.FormTypeSalle.resources
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\obj\Debug\Parametrage.Soins_Examen.FicheExamen.resources
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\obj\Debug\Parametrage.Soins_Examen.FicheTypeIntervention.resources
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\obj\Debug\Parametrage.csproj.GenerateResource.cache
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\obj\Debug\Parametrage.csproj.CoreCompileInputs.cache
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\obj\Debug\Parametrage.csproj.CopyComplete
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\obj\Debug\Parametrage.exe
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\obj\Debug\Parametrage.pdb
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\EnvDTE.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\stdole.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\Microsoft.MSXML.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\EnvDTE80.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\VSLangProj.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\VSLangProj80.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\VSLangProj2.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\fr\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\fr\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\bin\Debug\fr\Microsoft.VisualStudio.GraphModel.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Parametrage\obj\Debug\Parametrage.exe.config

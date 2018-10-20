@@ -1,0 +1,16 @@
+e:\DojoNationale\Quincaillerie\Quincaillerie\bin\Debug\Quincaillerie.exe.config
+e:\DojoNationale\Quincaillerie\Quincaillerie\obj\Debug\Quincaillerie.exe
+e:\DojoNationale\Quincaillerie\Quincaillerie\obj\Debug\Quincaillerie.pdb
+E:\DojoNationale\Quincaillerie\Quincaillerie\obj\Debug\Quincaillerie.csprojResolveAssemblyReference.cache
+E:\DojoNationale\Quincaillerie\Quincaillerie\obj\Debug\Quincaillerie.Form2.resources
+E:\DojoNationale\Quincaillerie\Quincaillerie\obj\Debug\Quincaillerie.Properties.Resources.resources
+E:\DojoNationale\Quincaillerie\Quincaillerie\obj\Debug\Quincaillerie.csproj.GenerateResource.Cache
+E:\DojoNationale\Quincaillerie\Quincaillerie\bin\Debug\Quincaillerie.exe
+E:\DojoNationale\Quincaillerie\Quincaillerie\bin\Debug\Quincaillerie.pdb
+E:\DojoNationale\Quincaillerie\Quincaillerie\bin\Debug\Connexion.exe
+E:\DojoNationale\Quincaillerie\Quincaillerie\bin\Debug\MySql.Data.dll
+E:\DojoNationale\Quincaillerie\Quincaillerie\bin\Debug\SQLite.NET.dll
+E:\DojoNationale\Quincaillerie\Quincaillerie\bin\Debug\Connexion.pdb
+E:\DojoNationale\Quincaillerie\Quincaillerie\bin\Debug\MySql.Data.xml
+e:\DojoNationale\Quincaillerie\Quincaillerie\obj\Debug\Quincaillerie.FichePatient.resources
+e:\DojoNationale\Quincaillerie\Quincaillerie\obj\Debug\Quincaillerie.DossierPatient.resources

@@ -1,0 +1,129 @@
+e:\DojoNationale\DPI\Connexion\obj\Debug\Connexion.csprojResolveAssemblyReference.cache
+e:\DojoNationale\DPI\Connexion\obj\Debug\Connexion.Properties.Resources.resources
+e:\DojoNationale\DPI\Connexion\obj\Debug\Connexion.csproj.GenerateResource.Cache
+D:\DPI\Connexion\bin\Debug\Connexion.exe
+D:\DPI\Connexion\bin\Debug\Connexion.pdb
+D:\DPI\Connexion\bin\Debug\MySql.Data.dll
+D:\DPI\Connexion\obj\Debug\Connexion.Properties.Resources.resources
+D:\DPI\Connexion\obj\Debug\Connexion.csproj.GenerateResource.Cache
+D:\DPI\Connexion\obj\Debug\Connexion.csproj.CoreCompileInputs.cache
+D:\DPI\Connexion\obj\Debug\Connexion.exe
+D:\DPI\Connexion\obj\Debug\Connexion.pdb
+D:\DPI\Connexion\obj\Debug\Connexion.csprojResolveAssemblyReference.cache
+D:\Users\kaneeuro\Documents\Visual Studio 2015\Projects\DPI\Connexion\bin\Debug\Connexion.exe
+D:\Users\kaneeuro\Documents\Visual Studio 2015\Projects\DPI\Connexion\bin\Debug\Connexion.pdb
+D:\Users\kaneeuro\Documents\Visual Studio 2015\Projects\DPI\Connexion\obj\Debug\Connexion.Properties.Resources.resources
+D:\Users\kaneeuro\Documents\Visual Studio 2015\Projects\DPI\Connexion\obj\Debug\Connexion.csproj.GenerateResource.Cache
+D:\Users\kaneeuro\Documents\Visual Studio 2015\Projects\DPI\Connexion\obj\Debug\Connexion.exe
+D:\Users\kaneeuro\Documents\Visual Studio 2015\Projects\DPI\Connexion\obj\Debug\Connexion.pdb
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\Projet DPI\DPI\Connexion\bin\Debug\Connexion.exe
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\Projet DPI\DPI\Connexion\bin\Debug\Connexion.pdb
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\Projet DPI\DPI\Connexion\obj\Debug\Connexion.Properties.Resources.resources
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\Projet DPI\DPI\Connexion\obj\Debug\Connexion.csproj.GenerateResource.Cache
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\Projet DPI\DPI\Connexion\obj\Debug\Connexion.exe
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\Projet DPI\DPI\Connexion\obj\Debug\Connexion.pdb
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\DPI\Connexion\bin\Debug\Connexion.exe
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\DPI\Connexion\bin\Debug\Connexion.pdb
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\DPI\Connexion\bin\Debug\MySQL.dll
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\DPI\Connexion\obj\Debug\Connexion.Properties.Resources.resources
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\DPI\Connexion\obj\Debug\Connexion.csproj.GenerateResource.Cache
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\DPI\Connexion\obj\Debug\Connexion.exe
+C:\Users\toshiba\Documents\Visual Studio 2017\Projects\DojoVersion18-06\DPI\Connexion\obj\Debug\Connexion.pdb
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\Connexion.exe.config
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\Connexion.exe
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\Connexion.pdb
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\obj\Debug\Connexion.csprojResolveAssemblyReference.cache
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\obj\Debug\Connexion.Form1.resources
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\obj\Debug\Connexion.Properties.Resources.resources
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\obj\Debug\Connexion.csproj.GenerateResource.cache
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\obj\Debug\Connexion.exe.licenses
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\obj\Debug\Connexion.csproj.CoreCompileInputs.cache
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\obj\Debug\Connexion.csproj.CopyComplete
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\obj\Debug\Connexion.exe
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\obj\Debug\Connexion.pdb
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\EnvDTE.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\stdole.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\Microsoft.MSXML.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\EnvDTE80.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\VSLangProj.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\VSLangProj80.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\VSLangProj2.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\fr\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\fr\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\pc lenovo\Desktop\SADIC\10032018Projet DPI\Projet DPI\DPI\Connexion\bin\Debug\fr\Microsoft.VisualStudio.GraphModel.resources.dll
