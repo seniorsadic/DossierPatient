@@ -94,7 +94,7 @@ namespace Parametrage.Soins_Examen
             {
                 if (MessageBox.Show("Voulez-vous continuer ?", "Suppression", MessageBoxButtons.YesNo) == DialogResult.Yes)
                 {
-                    ConnexionDPI.Tools.executeLMD_Query("Delete from examen ' WHERE idExamen='" + dataGridView1.CurrentRow.Cells[0].Value + "'");
+                    ConnexionDPI.Tools.executeLMD_Query("Delete from examen WHERE idExam='" + dataGridView1.CurrentRow.Cells[0].Value + "'");
                     this.Refresh();
                 }
             }

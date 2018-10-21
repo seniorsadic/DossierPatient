@@ -97,7 +97,7 @@ namespace Parametrage.Personnel
             {
                 if (MessageBox.Show("Voulez-vous continuer ?", "Suppression", MessageBoxButtons.YesNo) == DialogResult.Yes)
                 {
-                    ConnexionDPI.Tools.executeLMD_Query("Delete from service ' WHERE idService='" + dataGridView1.CurrentRow.Cells[0].Value + "'");
+                    ConnexionDPI.Tools.executeLMD_Query("Delete from service WHERE idService='" + dataGridView1.CurrentRow.Cells[0].Value + "'");
                     this.Refresh();
                 }
             }

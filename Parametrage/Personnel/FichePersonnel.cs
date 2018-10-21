@@ -26,11 +26,11 @@ namespace Parametrage.Personnel
         }
         public FichePersonnel(FormPersonnels frm, string idpersonnel, int appel)
         {
-            InitializeComponent();
+            
             this.frm = frm;
             this.idpersonnel = idpersonnel;
             this.appel = appel;
-            
+            InitializeComponent();
         }
         public FichePersonnel()
         {

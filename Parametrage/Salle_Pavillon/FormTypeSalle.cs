@@ -49,5 +49,52 @@ namespace Parametrage.Salle_Pavillon
             }
         }
 
+        private void modifierToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            if (dataGridView1.Rows.Count > 0)
+            {
+                if (dataGridView1.CurrentRow.Cells[1].ReadOnly == true)
+                {
+                    Utilitaire.activerCellules_All(dataGridView1, dataGridView1.CurrentRow.Index);
+                }
+                else
+                {
+                    Validate();
+                    modele.Save();
+                    this.Refresh();
+                }
+            }
+        }
+
+        private void contextMenuStrip2_Opening(object sender, CancelEventArgs e)
+        {
+            if (dataGridView1.Rows.Count > 0)
+            {
+                modifierToolStripMenuItem.Enabled = supprimerToolStripMenuItem.Enabled = true;
+
+                if (ConnexionDPI.Tools.paramUsers.getCurrentUser().param > 2)
+                {
+                    if (dataGridView1.CurrentRow.Cells[1].ReadOnly == false)
+                        modifierToolStripMenuItem.Text = "Valider les modifications";
+                    else
+                        modifierToolStripMenuItem.Text = "Modifier";
+                }
+                else
+                    modifierToolStripMenuItem.Enabled = supprimerToolStripMenuItem.Enabled = false;
+            }
+        }
+
+       
+        private void supprimerToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            if (dataGridView1.Rows.Count > 0)
+            {
+                if (MessageBox.Show("Voulez-vous continuer ?", "Suppression", MessageBoxButtons.YesNo) == DialogResult.Yes)
+                {
+                    ConnexionDPI.Tools.executeLMD_Query("Delete from typedesalle WHERE idTypeDeSalle='" + dataGridView1.CurrentRow.Cells[0].Value + "'");
+                    this.Refresh();
+                }
+            }
+        }
     }
 }

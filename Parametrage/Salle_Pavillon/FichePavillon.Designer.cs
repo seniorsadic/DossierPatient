@@ -31,6 +31,16 @@
             this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FichePavillon));
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.idPavillonDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.idServiceDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewComboBoxColumn();
+            this.serviceBindingSource = new System.Windows.Forms.BindingSource(this.components);
+            this.paramDataSet = new Parametrage.ParamDataSet();
+            this.numeroDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.nomDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.contextMenuStrip2 = new System.Windows.Forms.ContextMenuStrip(this.components);
+            this.modifierToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.supprimerToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.pavillonBindingSource = new System.Windows.Forms.BindingSource(this.components);
             this.bindingNavigator1 = new System.Windows.Forms.BindingNavigator(this.components);
             this.bindingNavigatorAddNewItem = new System.Windows.Forms.ToolStripButton();
             this.bindingNavigatorCountItem = new System.Windows.Forms.ToolStripLabel();
@@ -44,23 +54,13 @@
             this.bindingNavigatorMoveLastItem = new System.Windows.Forms.ToolStripButton();
             this.bindingNavigatorSeparator2 = new System.Windows.Forms.ToolStripSeparator();
             this.toolStripButton1 = new System.Windows.Forms.ToolStripButton();
-            this.paramDataSet = new Parametrage.ParamDataSet();
-            this.pavillonBindingSource = new System.Windows.Forms.BindingSource(this.components);
-            this.serviceBindingSource = new System.Windows.Forms.BindingSource(this.components);
-            this.idPavillonDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.idServiceDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewComboBoxColumn();
-            this.numeroDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.nomDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.contextMenuStrip2 = new System.Windows.Forms.ContextMenuStrip(this.components);
-            this.modifierToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.supprimerToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.serviceBindingSource)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.paramDataSet)).BeginInit();
+            this.contextMenuStrip2.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pavillonBindingSource)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.bindingNavigator1)).BeginInit();
             this.bindingNavigator1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.paramDataSet)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pavillonBindingSource)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.serviceBindingSource)).BeginInit();
-            this.contextMenuStrip2.SuspendLayout();
             this.SuspendLayout();
             // 
             // dataGridView1
@@ -83,6 +83,77 @@
             this.dataGridView1.TabIndex = 3;
             this.dataGridView1.CellMouseDown += new System.Windows.Forms.DataGridViewCellMouseEventHandler(this.dataGridView1_CellMouseDown);
             this.dataGridView1.RowsAdded += new System.Windows.Forms.DataGridViewRowsAddedEventHandler(this.dataGridView1_RowsAdded);
+            // 
+            // idPavillonDataGridViewTextBoxColumn
+            // 
+            this.idPavillonDataGridViewTextBoxColumn.DataPropertyName = "idPavillon";
+            this.idPavillonDataGridViewTextBoxColumn.HeaderText = "idPavillon";
+            this.idPavillonDataGridViewTextBoxColumn.Name = "idPavillonDataGridViewTextBoxColumn";
+            this.idPavillonDataGridViewTextBoxColumn.Visible = false;
+            // 
+            // idServiceDataGridViewTextBoxColumn
+            // 
+            this.idServiceDataGridViewTextBoxColumn.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.idServiceDataGridViewTextBoxColumn.DataPropertyName = "idService";
+            this.idServiceDataGridViewTextBoxColumn.DataSource = this.serviceBindingSource;
+            this.idServiceDataGridViewTextBoxColumn.DisplayMember = "nomService";
+            this.idServiceDataGridViewTextBoxColumn.HeaderText = "Service";
+            this.idServiceDataGridViewTextBoxColumn.Name = "idServiceDataGridViewTextBoxColumn";
+            this.idServiceDataGridViewTextBoxColumn.Resizable = System.Windows.Forms.DataGridViewTriState.True;
+            this.idServiceDataGridViewTextBoxColumn.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.Automatic;
+            this.idServiceDataGridViewTextBoxColumn.ValueMember = "idService";
+            // 
+            // serviceBindingSource
+            // 
+            this.serviceBindingSource.DataMember = "service";
+            this.serviceBindingSource.DataSource = this.paramDataSet;
+            // 
+            // paramDataSet
+            // 
+            this.paramDataSet.DataSetName = "ParamDataSet";
+            this.paramDataSet.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
+            // 
+            // numeroDataGridViewTextBoxColumn
+            // 
+            this.numeroDataGridViewTextBoxColumn.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.numeroDataGridViewTextBoxColumn.DataPropertyName = "numero";
+            this.numeroDataGridViewTextBoxColumn.HeaderText = "Numero";
+            this.numeroDataGridViewTextBoxColumn.Name = "numeroDataGridViewTextBoxColumn";
+            // 
+            // nomDataGridViewTextBoxColumn
+            // 
+            this.nomDataGridViewTextBoxColumn.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.nomDataGridViewTextBoxColumn.DataPropertyName = "nom";
+            this.nomDataGridViewTextBoxColumn.HeaderText = "Nom";
+            this.nomDataGridViewTextBoxColumn.Name = "nomDataGridViewTextBoxColumn";
+            // 
+            // contextMenuStrip2
+            // 
+            this.contextMenuStrip2.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.modifierToolStripMenuItem,
+            this.supprimerToolStripMenuItem});
+            this.contextMenuStrip2.Name = "contextMenuStrip2";
+            this.contextMenuStrip2.Size = new System.Drawing.Size(153, 70);
+            this.contextMenuStrip2.Opening += new System.ComponentModel.CancelEventHandler(this.contextMenuStrip2_Opening);
+            // 
+            // modifierToolStripMenuItem
+            // 
+            this.modifierToolStripMenuItem.Name = "modifierToolStripMenuItem";
+            this.modifierToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.modifierToolStripMenuItem.Text = "Modifier";
+            this.modifierToolStripMenuItem.Click += new System.EventHandler(this.modifierToolStripMenuItem_Click);
+            // 
+            // supprimerToolStripMenuItem
+            // 
+            this.supprimerToolStripMenuItem.Name = "supprimerToolStripMenuItem";
+            this.supprimerToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.supprimerToolStripMenuItem.Text = "Supprimer";
+            this.supprimerToolStripMenuItem.Click += new System.EventHandler(this.supprimerToolStripMenuItem_Click);
+            // 
+            // pavillonBindingSource
+            // 
+            this.pavillonBindingSource.DataMember = "Pavillon";
+            this.pavillonBindingSource.DataSource = this.paramDataSet;
             // 
             // bindingNavigator1
             // 
@@ -210,76 +281,6 @@
             this.toolStripButton1.Text = "toolStripButton1";
             this.toolStripButton1.Click += new System.EventHandler(this.toolStripButton1_Click);
             // 
-            // paramDataSet
-            // 
-            this.paramDataSet.DataSetName = "ParamDataSet";
-            this.paramDataSet.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
-            // 
-            // pavillonBindingSource
-            // 
-            this.pavillonBindingSource.DataMember = "Pavillon";
-            this.pavillonBindingSource.DataSource = this.paramDataSet;
-            // 
-            // serviceBindingSource
-            // 
-            this.serviceBindingSource.DataMember = "service";
-            this.serviceBindingSource.DataSource = this.paramDataSet;
-            // 
-            // idPavillonDataGridViewTextBoxColumn
-            // 
-            this.idPavillonDataGridViewTextBoxColumn.DataPropertyName = "idPavillon";
-            this.idPavillonDataGridViewTextBoxColumn.HeaderText = "idPavillon";
-            this.idPavillonDataGridViewTextBoxColumn.Name = "idPavillonDataGridViewTextBoxColumn";
-            this.idPavillonDataGridViewTextBoxColumn.Visible = false;
-            // 
-            // idServiceDataGridViewTextBoxColumn
-            // 
-            this.idServiceDataGridViewTextBoxColumn.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
-            this.idServiceDataGridViewTextBoxColumn.DataPropertyName = "idService";
-            this.idServiceDataGridViewTextBoxColumn.DataSource = this.serviceBindingSource;
-            this.idServiceDataGridViewTextBoxColumn.DisplayMember = "nomService";
-            this.idServiceDataGridViewTextBoxColumn.HeaderText = "Service";
-            this.idServiceDataGridViewTextBoxColumn.Name = "idServiceDataGridViewTextBoxColumn";
-            this.idServiceDataGridViewTextBoxColumn.Resizable = System.Windows.Forms.DataGridViewTriState.True;
-            this.idServiceDataGridViewTextBoxColumn.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.Automatic;
-            this.idServiceDataGridViewTextBoxColumn.ValueMember = "idService";
-            // 
-            // numeroDataGridViewTextBoxColumn
-            // 
-            this.numeroDataGridViewTextBoxColumn.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
-            this.numeroDataGridViewTextBoxColumn.DataPropertyName = "numero";
-            this.numeroDataGridViewTextBoxColumn.HeaderText = "Numero";
-            this.numeroDataGridViewTextBoxColumn.Name = "numeroDataGridViewTextBoxColumn";
-            // 
-            // nomDataGridViewTextBoxColumn
-            // 
-            this.nomDataGridViewTextBoxColumn.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
-            this.nomDataGridViewTextBoxColumn.DataPropertyName = "nom";
-            this.nomDataGridViewTextBoxColumn.HeaderText = "Nom";
-            this.nomDataGridViewTextBoxColumn.Name = "nomDataGridViewTextBoxColumn";
-            // 
-            // contextMenuStrip2
-            // 
-            this.contextMenuStrip2.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.modifierToolStripMenuItem,
-            this.supprimerToolStripMenuItem});
-            this.contextMenuStrip2.Name = "contextMenuStrip2";
-            this.contextMenuStrip2.Size = new System.Drawing.Size(153, 70);
-            // 
-            // modifierToolStripMenuItem
-            // 
-            this.modifierToolStripMenuItem.Name = "modifierToolStripMenuItem";
-            this.modifierToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
-            this.modifierToolStripMenuItem.Text = "Modifier";
-            this.modifierToolStripMenuItem.Click += new System.EventHandler(this.modifierToolStripMenuItem_Click);
-            // 
-            // supprimerToolStripMenuItem
-            // 
-            this.supprimerToolStripMenuItem.Name = "supprimerToolStripMenuItem";
-            this.supprimerToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
-            this.supprimerToolStripMenuItem.Text = "Supprimer";
-            this.supprimerToolStripMenuItem.Click += new System.EventHandler(this.supprimerToolStripMenuItem_Click);
-            // 
             // FichePavillon
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -291,13 +292,13 @@
             this.Text = "FichePavillon";
             this.Load += new System.EventHandler(this.FichePavillon_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.serviceBindingSource)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.paramDataSet)).EndInit();
+            this.contextMenuStrip2.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.pavillonBindingSource)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.bindingNavigator1)).EndInit();
             this.bindingNavigator1.ResumeLayout(false);
             this.bindingNavigator1.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.paramDataSet)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pavillonBindingSource)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.serviceBindingSource)).EndInit();
-            this.contextMenuStrip2.ResumeLayout(false);
             this.ResumeLayout(false);
             this.PerformLayout();
 

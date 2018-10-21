@@ -213,7 +213,7 @@
             // 
             // comboBox_specialite
             // 
-            this.comboBox_specialite.DataBindings.Add(new System.Windows.Forms.Binding("SelectedValue", this.specialiteBindingSource, "idSpecialite", true));
+            this.comboBox_specialite.DataBindings.Add(new System.Windows.Forms.Binding("SelectedValue", this.personnelBindingSource, "idSpecialite", true));
             this.comboBox_specialite.DataSource = this.specialiteBindingSource;
             this.comboBox_specialite.DisplayMember = "nomSpecialite";
             this.comboBox_specialite.FormattingEnabled = true;
@@ -230,7 +230,7 @@
             // 
             // comboBox_service
             // 
-            this.comboBox_service.DataBindings.Add(new System.Windows.Forms.Binding("SelectedValue", this.serviceBindingSource, "idService", true));
+            this.comboBox_service.DataBindings.Add(new System.Windows.Forms.Binding("SelectedValue", this.personnelBindingSource, "idService", true));
             this.comboBox_service.DataSource = this.serviceBindingSource;
             this.comboBox_service.DisplayMember = "nomService";
             this.comboBox_service.FormattingEnabled = true;

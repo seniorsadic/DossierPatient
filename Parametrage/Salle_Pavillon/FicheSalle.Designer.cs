@@ -30,6 +30,10 @@
         {
             this.components = new System.ComponentModel.Container();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.comboBox_typesalle = new System.Windows.Forms.ComboBox();
+            this.salleBindingSource = new System.Windows.Forms.BindingSource(this.components);
+            this.paramDataSet = new Parametrage.ParamDataSet();
+            this.typedesalleBindingSource = new System.Windows.Forms.BindingSource(this.components);
             this.button2 = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
             this.label8 = new System.Windows.Forms.Label();
@@ -40,19 +44,15 @@
             this.label1 = new System.Windows.Forms.Label();
             this.textBox_prix = new System.Windows.Forms.TextBox();
             this.comboBox_service = new System.Windows.Forms.ComboBox();
-            this.salleBindingSource = new System.Windows.Forms.BindingSource(this.components);
-            this.paramDataSet = new Parametrage.ParamDataSet();
             this.serviceBindingSource = new System.Windows.Forms.BindingSource(this.components);
             this.textBox_dispo = new System.Windows.Forms.TextBox();
             this.textBox_capacite = new System.Windows.Forms.TextBox();
-            this.typedesalleBindingSource = new System.Windows.Forms.BindingSource(this.components);
             this.textBox_numSalle = new System.Windows.Forms.TextBox();
-            this.comboBox_typesalle = new System.Windows.Forms.ComboBox();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.salleBindingSource)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.paramDataSet)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.serviceBindingSource)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.typedesalleBindingSource)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.serviceBindingSource)).BeginInit();
             this.SuspendLayout();
             // 
             // groupBox1
@@ -79,6 +79,34 @@
             this.groupBox1.TabIndex = 1;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "groupBox1";
+            // 
+            // comboBox_typesalle
+            // 
+            this.comboBox_typesalle.DataBindings.Add(new System.Windows.Forms.Binding("Text", this.typedesalleBindingSource, "nomType", true));
+            this.comboBox_typesalle.DataBindings.Add(new System.Windows.Forms.Binding("SelectedValue", this.typedesalleBindingSource, "idTypeDeSalle", true));
+            this.comboBox_typesalle.DataSource = this.typedesalleBindingSource;
+            this.comboBox_typesalle.DisplayMember = "nomType";
+            this.comboBox_typesalle.FormattingEnabled = true;
+            this.comboBox_typesalle.Location = new System.Drawing.Point(242, 68);
+            this.comboBox_typesalle.Name = "comboBox_typesalle";
+            this.comboBox_typesalle.Size = new System.Drawing.Size(179, 21);
+            this.comboBox_typesalle.TabIndex = 21;
+            this.comboBox_typesalle.ValueMember = "idTypeDeSalle";
+            // 
+            // salleBindingSource
+            // 
+            this.salleBindingSource.DataMember = "Salle";
+            this.salleBindingSource.DataSource = this.paramDataSet;
+            // 
+            // paramDataSet
+            // 
+            this.paramDataSet.DataSetName = "ParamDataSet";
+            this.paramDataSet.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
+            // 
+            // typedesalleBindingSource
+            // 
+            this.typedesalleBindingSource.DataMember = "typedesalle";
+            this.typedesalleBindingSource.DataSource = this.paramDataSet;
             // 
             // button2
             // 
@@ -164,8 +192,8 @@
             // 
             // comboBox_service
             // 
-            this.comboBox_service.DataBindings.Add(new System.Windows.Forms.Binding("SelectedValue", this.salleBindingSource, "idService", true));
             this.comboBox_service.DataBindings.Add(new System.Windows.Forms.Binding("Text", this.typedesalleBindingSource, "nomType", true));
+            this.comboBox_service.DataBindings.Add(new System.Windows.Forms.Binding("SelectedValue", this.salleBindingSource, "idSalle", true));
             this.comboBox_service.DataSource = this.serviceBindingSource;
             this.comboBox_service.DisplayMember = "nomService";
             this.comboBox_service.FormattingEnabled = true;
@@ -174,16 +202,6 @@
             this.comboBox_service.Size = new System.Drawing.Size(179, 21);
             this.comboBox_service.TabIndex = 7;
             this.comboBox_service.ValueMember = "idService";
-            // 
-            // salleBindingSource
-            // 
-            this.salleBindingSource.DataMember = "Salle";
-            this.salleBindingSource.DataSource = this.paramDataSet;
-            // 
-            // paramDataSet
-            // 
-            this.paramDataSet.DataSetName = "ParamDataSet";
-            this.paramDataSet.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
             // 
             // serviceBindingSource
             // 
@@ -206,11 +224,6 @@
             this.textBox_capacite.Size = new System.Drawing.Size(179, 20);
             this.textBox_capacite.TabIndex = 4;
             // 
-            // typedesalleBindingSource
-            // 
-            this.typedesalleBindingSource.DataMember = "typedesalle";
-            this.typedesalleBindingSource.DataSource = this.paramDataSet;
-            // 
             // textBox_numSalle
             // 
             this.textBox_numSalle.DataBindings.Add(new System.Windows.Forms.Binding("Text", this.salleBindingSource, "numeroSalle", true));
@@ -218,19 +231,6 @@
             this.textBox_numSalle.Name = "textBox_numSalle";
             this.textBox_numSalle.Size = new System.Drawing.Size(179, 20);
             this.textBox_numSalle.TabIndex = 2;
-            // 
-            // comboBox_typesalle
-            // 
-            this.comboBox_typesalle.DataBindings.Add(new System.Windows.Forms.Binding("SelectedValue", this.salleBindingSource, "idTypeDeSalle", true));
-            this.comboBox_typesalle.DataBindings.Add(new System.Windows.Forms.Binding("Text", this.typedesalleBindingSource, "nomType", true));
-            this.comboBox_typesalle.DataSource = this.typedesalleBindingSource;
-            this.comboBox_typesalle.DisplayMember = "nomType";
-            this.comboBox_typesalle.FormattingEnabled = true;
-            this.comboBox_typesalle.Location = new System.Drawing.Point(242, 68);
-            this.comboBox_typesalle.Name = "comboBox_typesalle";
-            this.comboBox_typesalle.Size = new System.Drawing.Size(179, 21);
-            this.comboBox_typesalle.TabIndex = 21;
-            this.comboBox_typesalle.ValueMember = "idTypeDeSalle";
             // 
             // FicheSalle
             // 
@@ -245,8 +245,8 @@
             this.groupBox1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.salleBindingSource)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.paramDataSet)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.serviceBindingSource)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.typedesalleBindingSource)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.serviceBindingSource)).EndInit();
             this.ResumeLayout(false);
 
         }
